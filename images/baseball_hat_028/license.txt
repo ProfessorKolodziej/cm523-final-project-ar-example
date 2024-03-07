@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baseball Hat 028
+* source:	https://sketchfab.com/3d-models/baseball-hat-028-d9edc7c821f44c65a4f68e2509f04e6d
+* author:	jmcgregor (https://sketchfab.com/jmcgregor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baseball Hat 028" (https://sketchfab.com/3d-models/baseball-hat-028-d9edc7c821f44c65a4f68e2509f04e6d) by jmcgregor (https://sketchfab.com/jmcgregor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
