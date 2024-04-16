@@ -19,24 +19,24 @@
 		<section class="controls">
 			<h1>Customize a hat using A-Frame</h1>
 			<!-- These are your color controls. The data-color controls what color the hat becomes. -->
-			<button class="modify-color" data-color="#cc0000">Make it a BU hat</button>
-			<button class="modify-color" data-color="gold">Make it a BC hat</button>
+			<button type="button" class="modify-color" data-color="#cc0000">Make it a BU hat</button>
+			<button type="button" class="modify-color" data-color="gold">Make it a BC hat</button>
 		</section>
-		
+
 		<!--
 			Here's the tutorial I used to get this started.
 			https://www.futurelearn.com/info/courses/a-beginners-guide-to-creating-a-webvr-experience-using-aframe/0/steps/328745
 		-->
 
 		<a-scene background="color: lightblue">
-			<!-- 
+			<!--
 				This set of tags loads your custom 3D model.
 				I got this model from SketchUp. You can also make your own. Make sure it's in gltf format.
 			-->
 			<a-assets>
-				<a-asset-item id="hat" src="images/baseball_hat_028/scene.gltf"></a-asset-item>   
+				<a-asset-item id="hat" src="images/baseball_hat_028/scene.gltf"></a-asset-item>
 			</a-assets>
-			<!-- 
+			<!--
 				This renders your custom 3D model.
 				The modify-color attribute on this a-entity tag helps connect the HTML to the JavaScript.
 			-->
